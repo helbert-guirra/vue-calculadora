@@ -1,6 +1,6 @@
 <script setup>
-import calculadora from './components/calculadora.vue'
-import cabecalho from './components/cabecalho.vue'
+import Calculadora from './components/calculadora.vue'
+import Cabecalho from './components/cabecalho.vue'
 </script>
 
 <template>
@@ -11,4 +11,5 @@ import cabecalho from './components/cabecalho.vue'
 <style scoped>
 
 </style>
+
 
