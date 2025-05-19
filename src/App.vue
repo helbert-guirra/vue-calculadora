@@ -1,6 +1,6 @@
 <script setup>
-import Calculadora from './components/Calculadora.vue'
-import Cabecalho from './components/Cabecalho.vue'
+import calculadora from './components/calculadora.vue'
+import cabecalho from './components/cabecalho.vue'
 </script>
 
 <template>
